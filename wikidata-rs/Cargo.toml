@@ -11,7 +11,7 @@ keywords = ["wikidata", "duckdb", "json", "dump", "database"]
 categories = ["algorithms", "database", "mathematics", "science"]
 
 [dependencies]
-duckdb = { version = "0.7.1", features = ["chrono"] }
+duckdb = { version = "0.10.1", features = ["chrono"] }
 chrono = "0.4.23"
 lazy_static = "1.4.0"
 wikidata = "0.3.0"
